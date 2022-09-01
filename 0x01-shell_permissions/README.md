@@ -7,3 +7,4 @@
 7-everybody: Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 8-James_Bond: 007
 9-John_Doe: Write a script that sets the mode of the file hello to this:-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+ 10-mirror_permissions: Write a script that sets the mode of the file hello the same as olleh’s mode.
